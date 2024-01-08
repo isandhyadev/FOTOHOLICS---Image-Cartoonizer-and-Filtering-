@@ -1,0 +1,100 @@
+.is{
+    color: blueviolet;
+    border-color: brown;
+    border: 3px solid rgb(69, 69, 69);
+    /* margin-top: 70px; */
+    margin: 30px;
+    /* margin-bottom: 90px; */
+    padding: 5px;
+    box-sizing: border-box;
+    visibility: 40%;
+    background-color: rgba(102, 101, 101, 0.404);
+    border-radius: 70px;
+    
+}
+.card-img {
+    width:100px;
+}
+.card-img, .card-img-top {
+    border-top-left-radius: var(--bs-card-inner-border-radius);
+    border-top-right-radius: var(--bs-card-inner-border-radius);
+}
+
+
+.card-img, .card-img-bottom, .card-img-top {
+    width: 70%;
+    background-color: rgba(148, 148, 148, 0.721);
+    visibility: 60%;
+    border-radius: 60px;
+}
+
+.btn-group1 .nouse {
+    margin: 100px;
+    border: 20px solid rgba(178, 152, 152, 0);
+}
+.btn-group1 .btn{
+    background-color: rgb(145, 93, 229);
+}
+.btn-group1 .btn:hover{
+    background-color: blueviolet;
+    border: 4px solid rgb(69, 5, 129);
+
+}
+.ul.dropdown-menu  {
+    background-color: rgb(156, 146, 167);
+}
+input+.webcam1{
+    display: flex;
+    flex-direction: column;
+}
+.images1{
+    width: 30vw;
+    height: 40vh;
+    align-items: center;
+}
+.images{
+    width: 30vw;
+    height: 40vh;
+}
+.abb{
+    display: flex;
+    flex-direction: column;
+}
+.pridiction{
+    width: 32vw;
+    height: 70px;
+    margin: 8px 0;
+    background-color: rgb(169, 111, 222);
+    border: 4px solid rgb(132, 62, 197);
+    border-radius: 30px;
+    color: rgb(235, 245, 245);
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    font-style: italic;
+}
+.pridiction1{
+    margin-left: 20px;
+}
+.pridiction1 .text{
+    text-align: left;
+    color: aliceblue;
+    font-size: 22px;
+    font-weight: 400;
+    width: 30vw;
+}
+.pridiction1 .outer{
+    width: 30vw;
+    height: 22px;
+    border:2px solid rgb(139, 70, 205);
+    
+  background-color: rgb(177, 183, 187);
+  border-radius: 30px;
+}
+.pridiction1 .inner{
+    
+    height: 20px;
+    border-radius: 32px;
+  background-color: rgb(132, 62, 197);
+}
+

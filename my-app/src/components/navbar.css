@@ -1,0 +1,49 @@
+
+.box1{
+    position:relative;
+    align-content:center;
+    width: 100px;
+    border: 4px solid blueviolet;
+}
+.box{
+    display: block;
+    position: relative;
+    
+    padding: 5px 5px;
+    
+}
+.navbar{
+    margin-left: 0px;
+    /* border: 4px solid blueviolet; */
+    padding: 0px 0px;
+    
+}
+.navbar .container{
+    margin-left: 0px;
+    
+}
+.btn-group{
+    align-content: center;
+    margin-left: 490px;
+    margin-top: 40px;
+    position: relative;
+    /* border: 4px solid blueviolet; */
+    
+}
+.btn{
+    
+    margin-right: 18px;
+    border-radius: 5px;
+}
+.btn :hover{
+    background-color: blueviolet;
+    border-color: brown;
+    box-shadow:chartreuse 4px;
+}
+.btn .btn-dark {
+    background-color: #eb1414;
+}
+.nav-link {
+    color:rgb(166, 255, 0);
+    
+}
