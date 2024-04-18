@@ -1,5 +1,6 @@
 FOTOHOLICS - Image Catoonizer and Filtering is to convert regular images into cartoon-style images or applying different filters with Emotion Predictor can be used to identify and classify emotions in the cartoonized images.
 <br>
+<br>
 Objectives of Project 
 <br>
 ➢Different filters such as smooth, grey, water effect, blur, sharpen etc. including cartooniser
@@ -12,6 +13,7 @@ Objectives of Project
 <br> 
 ➢ We can download the image as well as it will open the filtered or new image to new tab
 <br> 
+<br>
 Technologies Used :  
 <br>
 ➢ Reactjs <br>
